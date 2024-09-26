@@ -1,0 +1,67 @@
+.main {
+    width: 60%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+}
+
+.main h1 {
+    font-size: 70px;
+    color: #fff;
+}
+
+.main p {
+    color: #ddd;
+    font-size: 40px;
+
+}
+.t1 {
+    border-bottom: 2px solid #0070f3;
+}
+
+.t2 {
+    border-bottom: 2px solid #3ECF8E;
+
+}
+
+.link-main {
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    transition: .5s;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.link-main:hover {
+    background-color: #fff;
+    color: #000;
+    transition: .5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

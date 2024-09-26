@@ -1,0 +1,47 @@
+.page-tasks {
+    width: 80%;
+    height: 100vh;
+    overflow: scroll;
+    scrollbar-width: none;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-tasks::-webkit-scrollbar {
+    display: none; 
+}
+  
+.section-tasks {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 60px 10px 10px 10px;
+}
+
+.box-tasks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.box-tasks p {
+    padding: 10px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.link-tasks {
+    color: #eee;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+
+
