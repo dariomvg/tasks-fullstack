@@ -45,6 +45,7 @@ export default function Create() {
             name="title"
             value={form.title}
             onChange={changeTask}
+            required
           />
         </div>
         <div>
@@ -54,6 +55,7 @@ export default function Create() {
             name="date"
             value={form.date}
             onChange={changeTask}
+            required
           />
         </div>
         <div>
@@ -63,6 +65,7 @@ export default function Create() {
             name="content"
             value={form.content}
             onChange={changeTask}
+            required
           />
         </div>
         <div>
