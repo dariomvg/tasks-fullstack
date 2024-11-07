@@ -1,4 +1,5 @@
 # Aplicación CRUD con NextJS y Supabase
+<img src="https://i.imgur.com/VprJ9Oy.png" title="source: imgur.com" />
 
 > Puedes crear tareas agregando una fecha, titulo, la tarea y una imagen descriptiva
 
